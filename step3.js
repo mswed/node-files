@@ -104,13 +104,3 @@ async function run() {
 
 
 run()
-
-// const path = process.argv[2]
-// console.log(args)
-// console.log(args.length)
-//
-// if (path) {
-
-// } else {
-//     console.log('Please specify a file or a url')
-// }
